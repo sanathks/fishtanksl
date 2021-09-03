@@ -1,5 +1,6 @@
 ---
-title: කළු ඇල්ගී (Black Algae) වලට හේතු මොනවාද?
+title: What Causes Black Algae?
+title_si: කළු ඇල්ගී (Black Algae) වලට හේතු මොනවාද?
 date: 2021-08-25T00:03:25.970Z
 description: ඇල්ගී විශේෂයේ වර්ධනයට අපි නොදැනුවත්වම ලබා දෙන දායකත්වයන් මොනවාද?
 image: img/මොනවද-මේ-කළු-ඇල්ගී-2-.png
