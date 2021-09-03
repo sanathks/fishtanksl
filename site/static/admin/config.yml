@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+  repo: sanathks/fishtanksl
+  branch: master
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
@@ -11,6 +13,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title in Sinhala", name: "title_si", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
