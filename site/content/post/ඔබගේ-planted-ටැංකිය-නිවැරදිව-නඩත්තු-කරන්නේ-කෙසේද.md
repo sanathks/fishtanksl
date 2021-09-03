@@ -1,5 +1,6 @@
 ---
-title: ඔබගේ Planted ටැංකිය නිවැරදිව නඩත්තු කරන්නේ කෙසේද?
+title: " How to Properly Maintain Your Planted Tank?"
+title_si: ඔබගේ Planted ටැංකිය නිවැරදිව නඩත්තු කරන්නේ කෙසේද?
 date: 2021-08-22T00:15:26.374Z
 description: ඔබට ආකර්ෂණීය planted ටැංකියක් පවත්වා ගැනීමට අවශ්‍ය නම් පහත සඳහන්
   උපදෙස් අනුගමනය කරන්න.
